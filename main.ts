@@ -10,3 +10,5 @@ import "./src/generics/1";
 import "./src/generics/2";
 import "./src/generics/3";
 import "./src/generics/4";
+import "./src/generics/5";
+import "./src/generics/6";
